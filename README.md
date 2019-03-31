@@ -1,7 +1,7 @@
 # linkedin-profile-api
 A Free LinkedIn Api to fetch profile information
 
-Endpoint: https://nbs.techromance.com/api/profile?un=<username>&pretty_print=true
+Endpoint: https://nbs.techromance.com/api/profile?un=<--username-->&pretty_print=true
 
 Method Type- Get
 Parameters- 1- un (required)
